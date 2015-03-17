@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/widgets_quotes/trunk">
+  <namespace name="">
+    <class name="Quote" src="Quote.php" description="author nicolaas [at] sunnysideup.co.nz" xml="classes/Quote.xml"/>
+  </namespace>
+</index>

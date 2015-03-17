@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="Quote" namespace="" name="Quote" abstract="false" final="false" start="5" end="74">
+  <file path="/var/www/_modules/widgets_quotes/trunk/docs/en/phpdox/../../.." file="Quote.php" realpath="/var/www/_modules/widgets_quotes/trunk/Quote.php" size="2244" time="2015-03-14T10:23:52+13:00" unixtime="1426281832" sha1="78e445adfcda0ed988aab3f936c1b5beba2237c8" relative="Quote.php"/>
+  <docblock>
+    <description compact="author nicolaas [at] sunnysideup.co.nz"/>
+  </docblock>
+  <extends full="Widget" namespace="" name="Widget"/>
+  <member name="db" type="array" visibility="public" line="7"/>
+  <member name="has_one" type="array" visibility="public" line="16"/>
+  <member name="title" type="string" default="'Quote'" visibility="public" line="20"/>
+  <member name="cmsTitle" type="string" default="'Quote'" visibility="public" line="22"/>
+  <member name="description" type="string" default="'Allows you to add quote'" visibility="public" line="24"/>
+  <member name="folder_name_for_images" type="string" default="'quote-images'" visibility="protected" line="26"/>
+  <method name="set_folder_name_for_images" start="27" end="27" abstract="false" final="false" static="true" visibility="public">
+    <parameter name="v" byreference="false" type="{unknown}"/>
+  </method>
+  <method name="get_folder_name_for_images" start="28" end="28" abstract="false" final="false" static="true" visibility="public"/>
+  <method name="getCMSFields" start="30" end="61" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="Title" start="63" end="65" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="getTitle" start="67" end="69" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="MyPhoto" start="71" end="73" abstract="false" final="false" static="false" visibility="public"/>
+</class>
