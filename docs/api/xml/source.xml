@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<source xmlns="http://xml.phpdox.net/src">
-  <dir name="/var/www/_modules/widgets_quotes/trunk">
-    <file name="Quote.php" size="2244" time="2015-03-14T10:23:52+13:00" unixtime="1426281832" sha1="78e445adfcda0ed988aab3f936c1b5beba2237c8" xml="tokens/Quote.php.xml"/>
-    <file name="_config.php" size="426" time="2015-03-14T10:23:52+13:00" unixtime="1426281832" sha1="df8d5b1b3d081ba0c9ad7469ef4b74e4267bfc68" xml="tokens/_config.php.xml"/>
-  </dir>
-</source>
